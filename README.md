@@ -68,79 +68,6 @@ Content-Type: multipart/form-data
 Request Fields:
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 FieldTypeDescriptionfullNameStringStudent's full nameemailStringEmail addressbranchStringCSE, IT, ECE, etc.graduationYearString2025, 2026, etc.javaLevelInteger (1-5)Java / OOP ratingpythonLevelInteger (1-5)Python ratingdsaLevelInteger (1-5)DSA ratingsystemDesignLevelInteger (1-5)System Design ratingdbmsLevelInteger (1-5)DBMS/SQL ratingprojectsCountIntegerNumber of good projectsportfolioUrlStringGitHub / Portfolio linkcommunicationSelfInteger (1-5)Self-rated communicationresumeFile (PDF)Resume PDF (Recommended)
 
 Scoring Logic
@@ -152,30 +79,6 @@ Communication → 20%
 Projects & Portfolio → 15%
 
 Readiness Levels
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Score RangeLevel85 - 100Excellent - Job Ready70 - 84Good - Ready with Minor Prep50 - 69Average - Needs Focused ImprovementBelow 50Beginner - Significant Preparation Needed
 
